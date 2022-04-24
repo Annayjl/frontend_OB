@@ -1,0 +1,7 @@
+Cors Unblock
+https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino?hl=en
+
+Able to retrieve the data but unable to do the following due to errors and lack of understanding:
+- Search by Amount, Supplier, Agency
+- Record according to user's preference
+- Unable to deploy app onto github
